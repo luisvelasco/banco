@@ -1,0 +1,6 @@
+public class cliente(){
+private int IdCliente
+private int NombreCliente
+private int NIT
+
+}
