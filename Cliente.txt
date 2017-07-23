@@ -4,3 +4,5 @@ private int NombreCliente
 private int NIT
 
 }
+
+----nueva linea---
